@@ -1,0 +1,29 @@
+Hardware:
+- Emotiv EPOC X     https://www.emotiv.com/epoc-x/
+- Arduino UNO       https://www.arduino.cc/en/Main/arduinoBoardUno&gt;
+- Digital WS2028b LEDstrips
+- External power supply dependent on the amount of LEDs used
+- Stereo amplifiers
+- Optional: Audio interface (to relief some computational power from Ableton)
+
+Software applications:
+- Emotiv PRO        https://www.emotiv.com/emotivpro/
+- OpenVibe acquisition server and scenario designer http://openvibe.inria.fr/downloads/
+- Loop MIDI (or another virtual MIDI port app) http://www.tobias-erichsen.de/software/loopmidi.html
+- Ableton Live 11 (Intro, Standard or Suite) https://www.ableton.com/en/shop/live/
+- Asio4all (or another audio driver) https://asio4all.en.lo4d.com/windows
+- Optional: software package accompanying the optionally used audio interface
+
+Software 
+- MINDYOURSELF_OpenVibe scenario \GITHUB LINK
+- MINDYOURSELF_Arduino script \GITHUB LINK
+- MINDYOURSELF_AbletonProject \GITHUB LINK
+- MINDYOURSELF_SoundPackage \Soundcloud LINK (to be put in the same file location as the Ableton project/ or linked via missing files replacement (see below))
+- MINDYOURSELF_PythonMain \GITHUB LINK
+
+External additional information/tutorials:
+- Manually linking sample files to Ableton            https://help.ableton.com/hc/en-us/articles/360000346779-How-to-find-and-replace-missing-media-files
+- Setting up a virtual MIDI input port in Ableton     https://help.ableton.com/hc/en-us/articles/209774225-Setting-up-a-virtual-MIDI-bus
+- Setting up Asio4All in Ableton                      https://help.ableton.com/hc/en-us/articles/115000204630-Setting-up-ASIO4ALL-Windows- 
+                                                      (should be adapted if an external audio interface is used)
+- Connecting the hardware of the LEDstrip to Arduino  https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections
