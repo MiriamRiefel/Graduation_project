@@ -14,7 +14,7 @@ Software applications:
 - Asio4all (or another audio driver)                  https://asio4all.en.lo4d.com/windows
 - Optional: software package accompanying the optionally used audio interface
 
-Software: 
+Software execution files: 
 - MINDYOURSELF_OpenVibe scenario \GITHUB LINK
 - MINDYOURSELF_Arduino script \GITHUB LINK
 - MINDYOURSELF_AbletonProject \GITHUB LINK
@@ -27,7 +27,7 @@ Python libraries: (Python 3.7)
 - python-time             https://pypi.org/project/python-time/
 - pandas                  https://pandas.pydata.org/
 - numpy                   https://numpy.org/
-- rando                   
+- random2                 https://pypi.org/project/random2/                 
 
 External additional information/tutorials:
 - Manually linking sample files to Ableton            https://help.ableton.com/hc/en-us/articles/360000346779-How-to-find-and-replace-missing-media-files
