@@ -1,25 +1,33 @@
 Hardware:
-- Emotiv EPOC X     https://www.emotiv.com/epoc-x/
-- Arduino UNO       https://www.arduino.cc/en/Main/arduinoBoardUno&gt;
+- Emotiv EPOC X             https://www.emotiv.com/epoc-x/
+- Arduino UNO               https://www.arduino.cc/en/Main/arduinoBoardUno&gt;
 - Digital WS2028b LEDstrips
 - External power supply dependent on the amount of LEDs used
 - Stereo amplifiers
 - Optional: Audio interface (to relief some computational power from Ableton)
 
 Software applications:
-- Emotiv PRO        https://www.emotiv.com/emotivpro/
-- OpenVibe acquisition server and scenario designer http://openvibe.inria.fr/downloads/
-- Loop MIDI (or another virtual MIDI port app) http://www.tobias-erichsen.de/software/loopmidi.html
-- Ableton Live 11 (Intro, Standard or Suite) https://www.ableton.com/en/shop/live/
-- Asio4all (or another audio driver) https://asio4all.en.lo4d.com/windows
+- Emotiv PRO                                          https://www.emotiv.com/emotivpro/
+- OpenVibe acquisition server and scenario designer   http://openvibe.inria.fr/downloads/
+- Loop MIDI (or another virtual MIDI port app)        http://www.tobias-erichsen.de/software/loopmidi.html
+- Ableton Live 11 (Intro, Standard or Suite)          https://www.ableton.com/en/shop/live/
+- Asio4all (or another audio driver)                  https://asio4all.en.lo4d.com/windows
 - Optional: software package accompanying the optionally used audio interface
 
-Software 
+Software: 
 - MINDYOURSELF_OpenVibe scenario \GITHUB LINK
 - MINDYOURSELF_Arduino script \GITHUB LINK
 - MINDYOURSELF_AbletonProject \GITHUB LINK
 - MINDYOURSELF_SoundPackage \Soundcloud LINK (to be put in the same file location as the Ableton project/ or linked via missing files replacement (see below))
 - MINDYOURSELF_PythonMain \GITHUB LINK
+
+Python libraries: (Python 3.7)
+- pylsl                   https://pypi.org/project/pylsl/
+- python-rtmidi           https://pypi.org/project/python-rtmidi/
+- python-time             https://pypi.org/project/python-time/
+- pandas                  https://pandas.pydata.org/
+- numpy                   https://numpy.org/
+- rando                   
 
 External additional information/tutorials:
 - Manually linking sample files to Ableton            https://help.ableton.com/hc/en-us/articles/360000346779-How-to-find-and-replace-missing-media-files
