@@ -1,0 +1,28 @@
+1. MINDYOURSELF_acquisition_and_pre-processing
+
+ - MINDYOURSELF_EEG-pre-processing.xml        to be uploaded into OpenVibe designer
+ - LSL-openvibe.txt                           A link to a video tutorial about LSL (lab streaming layer)
+ - EmotivLSLsettings.png                      A screenshot of the LSL settings in Emotiv PRO
+ 
+ 
+ 2. MINDYOURSELF_main-control
+ 
+ - MINDYOURSELF_controlscript_main_experimentalcondition.py   Python control script for the experimental condition, to be uploaded in Python interpreter
+ - MINDYOURSELF_controlscript_main_controlcondition.py        Python control script for the placebo version of the experience
+ - fake_participant.xlsx                                      Simulated EEG input for the placebo version, to be downloaded into the same folder as ...main_controlcondition.py
+ - VAL_AR.csv                                                 MIDI slots linking Python control to Ableton, to be downloaded into the same folder as the controlscript.
+ 
+ 
+ 3. MINDYOURSELF_lightscape
+ 
+ - MINDYOURSELF_LEDcontrol      LEDcontrol script written in Arduino, to be uploaded into Arduino interpreter software and uploaded onto the Arduino hardware board.
+ 
+ 
+ 4. MINDYOURSELF_soundscape
+ 
+ - AProject.ico               Self-generated Ableton project info. To be downloaded into a folder named Ableton Project Info
+ - Project8_1.cfg             Self-generated Ableton project info. To be downloaded into a folder named Ableton Project Info  
+ - Desktop.ini                Ableton configuration settings. To be downloaded into the same folder as the Ableton Project
+ - MINDYOURSELF_soundscape    Ableton Project, to be uploaded into Ableton Live 11
+ 
+ 
