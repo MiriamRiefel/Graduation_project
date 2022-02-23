@@ -10,7 +10,7 @@ How to go about this software package:
 1. Watch the tutorial corresponding to this Github page: https://youtu.be/3v51ntuLwkg
 2. Check the full list of dependencies dependencies for all accompanying hardware and software that should be downloaded/bought/borrowed: file "dependencies"
 3. Read the file description, in which all files in this Github page are explained and linked to the project: file "file_overview.txt"
-4. Download all files in the Github depository
+4. Download all files in this Github depository
 5. Follow the instructions from the file overview document followed by the video tutorial
 
 
